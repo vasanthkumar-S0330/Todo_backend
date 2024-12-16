@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://freshkite:freshkite@cluster0.cjtnere.mongodb.net/?retryWrites=true&w=majority
+      database: test
